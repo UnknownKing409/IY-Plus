@@ -2,15 +2,9 @@
 
 A Fork of Infinite Yield.
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/78ZuWSq)](https://discord.gg/78ZuWSq)
-
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownKing409/infiniteyield/refs/heads/master/source"))()
 ```
-
- - Currently 400 commands
- - Open Source
- - 8+ years of development
 
 ## Developers
 
@@ -19,6 +13,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownKing409/infini
 
 ## Usage
 You can learn how to use all the features of this script in [the wiki](https://github.com/EdgeIY/infiniteyield/wiki)!
-
-## Contributing
-There is no specific rules on contributing (as of now) just open a [pull request](https://github.com/EdgeIY/infiniteyield/pulls) and if it checks out we will merge it!
